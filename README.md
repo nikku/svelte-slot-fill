@@ -1,6 +1,7 @@
 # svelte-slot-fill
 
-Slot/fill for [Svelte](https://svelte.technology/) apps.
+Slot/fill for [Svelte](https://svelte.technology/) apps. Similar to [composing with slots](https://svelte.technology/guide#composing-with-slot), just between arbitrary
+components.
 
 
 ## Usage
