@@ -1,6 +1,6 @@
 {
   "name": "svelte-slot-fill",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Slot/Fill for Svelte Apps",
   "svelte": "index.js",
   "scripts": {
