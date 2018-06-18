@@ -1,0 +1,21 @@
+{
+  "name": "svelte-slot-fill",
+  "version": "0.0.0",
+  "description": "Slot/Fill for Svelte Apps",
+  "svelte": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikku/svelte-slot-fill"
+  },
+  "author": "Nico Rehwaldt <https://github.com/nikku>",
+  "license": "MIT",
+  "devDependencies": {
+    "svelte": "^2.7.2"
+  },
+  "peerDependencies": {
+    "svelte": "^2.7"
+  }
+}
